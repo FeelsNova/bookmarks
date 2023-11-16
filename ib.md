@@ -13,3 +13,9 @@
 
 
 - CUSIP - Trader Workstation ( Waived if monthly commissions reach 5 USD ) USD 1.00 / Month
+
+-  US Equity and Options Add-On Streaming Bundle
+
+Includes streaming real-time quotes for NYSE (CTA/Network A), AMEX (CTA/Network B), NASDAQ (UTP/Network C), and OPRA (US Options). In order to subscribe to US Equity and Options Add-On Streaming Bundle (NP), the user must already be subscribed to US Securities Snapshot and Futures Value Bundle (NP).
+
+USD 4.50 /Month 
